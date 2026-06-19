@@ -34,7 +34,7 @@ I also have a strong literary background as a published writer, with works featu
         </a>
       </h3>
       <p><i>Game Balance</i></p>
-      <p>Balance model for a generic character-collection gacha game, including rarity distribution and pity mechanics.</p>
+      <p>Economy and probability model for a character-collection gacha game, including rarity distribution, pity mechanics, pull-value calculations and progression pacing.</p>
     </td>
   </tr>
   <tr>
@@ -45,7 +45,7 @@ I also have a strong literary background as a published writer, with works featu
         </a>
       </h3>
       <p><i>Narrative Game Design</i></p>
-      <p>A Twine-based narrative game prototype showcasing branching dialogue, player choice, consequence-driven storytelling and several original features.</p>
+      <p>Twine narrative prototype featuring branching dialogue, state-based storytelling, skill checks, inventory mechanics and consequence-driven player choices</p>
     </td>
     <td width="50%" align="center">
       <h3>
@@ -54,14 +54,7 @@ I also have a strong literary background as a published writer, with works featu
         </a>
       </h3>
       <p><i>TTRPG Design</i></p>
-      <p>TTRPG hack for Monsterhearts 2 & TTRPG framework design.</p>
-    </td>
-  </tr>
-</table>
-
-      
-      <p><i>TTRPG Design</i></p>
-      <p>TTRPG hack for Monsterhearts 2 & TTRPG framework design.</p>
+      <p>Original tabletop RPG framework built on Monsterhearts 2, including custom playbooks, relationship systems and narrative mechanics.</p>
     </td>
   </tr>
 </table>
