@@ -53,8 +53,11 @@ I also have a strong literary background as a published writer, with works featu
           TTRPG System
         </a>
       </h3>
-
-
+      <p><i>TTRPG Design</i></p>
+      <p>TTRPG hack for Monsterhearts 2 & TTRPG framework design.</p>
+    </td>
+  </tr>
+</table>
 
       
       <p><i>TTRPG Design</i></p>
